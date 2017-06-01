@@ -167,21 +167,6 @@ ctx.stroke()
 
 &lt;/script&gt;
 
-&lt;!-- 導入 Brython 標準程式庫 --&gt;
-
-&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
-
-&lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;
-
-&lt;!-- 啟動 Brython --&gt;
-
-&lt;script&gt;
-window.onload=function(){
-// 設定 data/py 為共用程式路徑
-brython({debug:1, pythonpath:['./../data/py']});
-}
-&lt;/script&gt;
-
 &lt;!-- 以下實際利用  Brython 繪圖--&gt;
 
 &lt;canvas id='gear3' width='1200' height='800'&gt;&lt;/canvas&gt;
