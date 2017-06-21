@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-06-21T20:52:26-00:00</lastmod>
+<lastmod>2017-06-21T20:57:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-06-21T20:52:26-00:00</lastmod>
+<lastmod>2017-06-21T20:57:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-06-21T20:52:26-00:00</lastmod>
+<lastmod>2017-06-21T20:57:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-06-21T20:52:26-00:00</lastmod>
+<lastmod>2017-06-21T20:57:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -144,15 +144,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/qi-zhong-kao.html</loc>
-<lastmod>2017-03-19T12:08:00+08:06</lastmod>
+<loc>./tag/hw.html</loc>
+<lastmod>2017-06-08T10:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/hw.html</loc>
-<lastmod>2017-06-08T10:00:00+08:06</lastmod>
+<loc>./tag/qi-zhong-kao.html</loc>
+<lastmod>2017-03-19T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
