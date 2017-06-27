@@ -12,7 +12,6 @@
 
 &lt;p&gt;&lt;script src="../data/Brython-3.3.1/brython.js"&gt;&lt;/script&gt;
 &lt;script src="../data/Brython-3.3.1/brython_stdlib.js"&gt;&lt;/script&gt;&lt;/p&gt;
-
 &lt;!-- 啟動 Brython --&gt;
 
 &lt;script&gt;
@@ -24,7 +23,7 @@ brython({debug:1, pythonpath:['./../data/py']});
 
 &lt;!-- 以下實際利用  Brython 繪圖--&gt;
 
-&lt;canvas id="onegear2" width="800" height="800"&gt;&lt;/canvas&gt;
+&lt;canvas id="onegear2" width="800" height="600"&gt;&lt;/canvas&gt;
 
 &lt;div id="onegear_div" width="800" height="20"&gt;&lt;/div&gt;
 
@@ -39,21 +38,21 @@ class Spur(object):
         self.ctx = ctx
 
 # 設定畫線參數 
-    def create_line1(self, x1, y1, x2, y2, width=3, fill="red"):
+    def create_line(self, x1, y1, x2, y2, width=3, fill="#54fff6"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
         self.ctx.lineTo(x2, y2)
         self.ctx.strokeStyle = fill
         self.ctx.stroke()
-    def create_line2(self, x1, y1, x2, y2, width=3, fill="green"):
+    def create_line2(self, x1, y1, x2, y2, width=3, fill="#54ff5f"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
         self.ctx.lineTo(x2, y2)
         self.ctx.strokeStyle = fill
         self.ctx.stroke()
-    def create_line3(self, x1, y1, x2, y2, width=3, fill="black"):
+    def create_line3(self, x1, y1, x2, y2, width=3, fill="#f354ff"):
         self.ctx.beginPath()
         self.ctx.lineWidth = width
         self.ctx.moveTo(x1, y1)
@@ -71,52 +70,19 @@ class Spur(object):
         d=1.25*m
         ra=rp+a
 
+
         # self.create_line(起點X, 起點Y, 終點X, 終點Y)
-        # 畫出黑色外框
-        self.create_line3(0, 0, 0, 800)
-        self.create_line3(0, 800, 800, 800)
-        self.create_line3(800, 800, 800, 0)
-        self.create_line3(800, 0, 0, 0)
+        self.create_line2(400.0092358669, 99.7467537143, 251.9547191519, 442.8435006599)
+        self.create_line3(400.0092358669, 99.7467537143, 537.4903413459, 440.1127860465)
+        self.create_line2(143.0084564396, 393.7995926042, 314.6469023490, 471.0653927376)
+        self.create_line3(143.0084564396, 393.7995926042, 202.3690092639, 492.0551734376)
+        self.create_line2(202.3690092639, 492.0551734376, 314.6469023490, 471.0653927376)
+        self.create_line3(465.4788879723, 480.3190039124, 593.2602222967, 408.9747395441)
+        self.create_line2(465.4788879723, 480.3190039124, 567.9291276424, 502.4572906272)
+        self.create_line3(567.9291276424, 502.4572906272, 593.2602222967, 408.9747395441)
 
-        self.create_line1(350, 20, 350, 220)
-        self.create_line1(350, 220, 450, 220)
-        self.create_line1(450, 220, 450, 20)
-        self.create_line1(450, 20, 350, 20)
 
-        self.create_line2(350, 70, 200, 70)
-        self.create_line2(200, 70, 200, 44.3)
-        self.create_line2(200, 44.3, 100, 44.3)
-        self.create_line2(100, 44.3, 100, 494.3)
-        self.create_line2(100, 494.3, 50, 494.3)
-        self.create_line2(50, 494.3, 50, 578.7)
-        self.create_line2(50, 578.7, 86.5, 591.7)
-        self.create_line2(86.5, 591.7, 123.8, 599.8)
-        self.create_line2(123.8, 599.8, 162, 604.3)
-        self.create_line2(162, 604.3, 202, 604.3)
-        self.create_line2(202, 604.3, 202, 494.3)
-        self.create_line2(202, 494.3, 152, 494.3)
-        self.create_line2(152, 494.3, 152, 144.3)
-        self.create_line2(152, 144.3, 202, 144.3)
-        self.create_line2(202, 144.3, 202, 118.6)
-        self.create_line2(202, 118.6, 352, 118.6)
 
-        self.create_line2(450, 70, 600, 70)
-        self.create_line2(600, 70, 600, 44.3)
-        self.create_line2(600, 44.3, 700, 44.30)
-        self.create_line2(700, 44.3, 700, 494.3)
-        self.create_line2(700, 494.3, 750, 494.3)
-        self.create_line2(750, 494.3, 750, 578.7)
-
-        self.create_line2(750, 578.7, 713.5, 591.7)
-        self.create_line2(713.5, 591.7, 676.2, 599.8)
-        self.create_line2(676.2, 599.8, 638, 604.3) 
-        self.create_line2(638, 604.3, 598, 604.3) 
-        self.create_line2(598, 604.3, 598, 494.3)
-        self.create_line2(598, 494.3, 648, 494.3)
-        self.create_line2(648, 494.3, 648, 144.3)
-        self.create_line2(648, 144.3, 598, 144.3)
-        self.create_line2(598, 144.3, 598, 118.6)
-        self.create_line2(598, 118.6, 448, 118.6) 
 
         if rd&gt;rb:
             dr = (ra-rd)/imax
@@ -1501,10 +1467,7 @@ sys.path.append("./m1")//資料夾路徑
 import add //導入 add.py&lt;/p&gt;
 &lt;p&gt;sum = add.add (1,2) //乘法演算&lt;/p&gt;
 &lt;p&gt;print(sum) //輸出結果
-&lt;/pre&gt;
-+法運算測試影片&lt;/p&gt;
-&lt;iframe  &gt;&lt;/iframe&gt;
-
+&lt;/pre&gt;&lt;/p&gt;
 &lt;h1&gt;網頁測試加法&lt;/h1&gt;
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 

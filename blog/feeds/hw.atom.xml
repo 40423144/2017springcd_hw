@@ -1323,10 +1323,7 @@ sys.path.append("./m1")//資料夾路徑
 import add //導入 add.py&lt;/p&gt;
 &lt;p&gt;sum = add.add (1,2) //乘法演算&lt;/p&gt;
 &lt;p&gt;print(sum) //輸出結果
-&lt;/pre&gt;
-+法運算測試影片&lt;/p&gt;
-&lt;iframe  &gt;&lt;/iframe&gt;
-
+&lt;/pre&gt;&lt;/p&gt;
 &lt;h1&gt;網頁測試加法&lt;/h1&gt;
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
