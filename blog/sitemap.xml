@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-06-28T23:48:32-00:00</lastmod>
+<lastmod>2017-06-28T23:51:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-06-28T23:48:32-00:00</lastmod>
+<lastmod>2017-06-28T23:51:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-06-28T23:48:32-00:00</lastmod>
+<lastmod>2017-06-28T23:51:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-06-28T23:48:32-00:00</lastmod>
+<lastmod>2017-06-28T23:51:42-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -95,15 +95,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</loc>
-<lastmod>2017-03-30T21:53:00+08:00</lastmod>
+<loc>./40423144si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</loc>
+<lastmod>2017-04-20T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./40423144si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</loc>
-<lastmod>2017-03-19T12:08:00+08:00</lastmod>
+<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</loc>
+<lastmod>2017-03-23T21:53:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -152,35 +152,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/qi-zhong-bao-gao.html</loc>
-<lastmod>2017-03-19T12:08:00+08:06</lastmod>
+<lastmod>2017-04-20T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./category/zuo-ye.html</loc>
-<lastmod>2017-03-30T21:53:00+08:06</lastmod>
+<lastmod>2017-03-23T21:53:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/zuo-ye.html</loc>
-<lastmod>2017-03-30T21:53:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/hw.html</loc>
-<lastmod>2017-06-08T10:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/qi-zhong-kao.html</loc>
-<lastmod>2017-03-19T12:08:00+08:06</lastmod>
+<lastmod>2017-03-23T21:53:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -188,6 +174,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/final.html</loc>
 <lastmod>2017-06-09T10:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/qi-zhong-kao.html</loc>
+<lastmod>2017-04-20T12:08:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/hw.html</loc>
+<lastmod>2017-06-08T10:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

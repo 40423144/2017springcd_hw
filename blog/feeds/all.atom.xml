@@ -1827,7 +1827,19 @@ doc["button4"].bind("click", button4)
 
 &lt;/script&gt;
 
-&lt;p&gt;&lt;button id="button4"&gt;按下取 a b 值&lt;/button&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 第五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-30T21:53:00+08:00</published><updated>2017-03-30T21:53:00+08:00</updated><author><name>40423144</name></author><id>tag:,2017-03-30:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.四連桿運動模擬&lt;/p&gt;
+&lt;p&gt;&lt;button id="button4"&gt;按下取 a b 值&lt;/button&gt;&lt;/p&gt;</summary><category term="HW"></category></entry><entry><title>40423144四連桿機構協同 Trace Point 查驗</title><link href="./40423144si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>40423144</name></author><id>tag:,2017-04-20:./40423144si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</id><summary type="html">&lt;p&gt;1.Fossil Server 實習查驗&lt;/p&gt;
+&lt;p&gt;2.四連桿機構協同 Trace Point 查驗&lt;/p&gt;
+&lt;p&gt;3.Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/p&gt;
+&lt;p&gt;4.分組協同零件展示&lt;/p&gt;
+
+
+&lt;h2&gt;(一) Fossil Server 實習查驗&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://mde2a2.kmol.info/midterm/ag1/index"&gt;ag1期中考報告 fossil &lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;(二) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h2&gt;
+&lt;p&gt;Trace Point 查驗圖片&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/hDCVf8X"&gt;&lt;img src="http://i.imgur.com/hDCVf8X.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;利用Excel 查驗四連桿Trace Point 圖片&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/hF8LJy6"&gt;&lt;img src="http://i.imgur.com/hF8LJy6.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="期中考"></category></entry><entry><title>協同產品設計實習 第五週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-23T21:53:00+08:00</published><updated>2017-03-23T21:53:00+08:00</updated><author><name>40423144</name></author><id>tag:,2017-03-23:./xie-tong-chan-pin-she-ji-shi-xi-di-wu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;1.四連桿運動模擬&lt;/p&gt;
 &lt;p&gt;2.八連桿運動模擬
 &lt;/p&gt;
 &lt;h1&gt;四連桿機構轉入 V-rep 進行運動模擬&lt;/h1&gt;
@@ -1854,19 +1866,7 @@ doc["button4"].bind("click", button4)
 
 &lt;h2&gt;運動模擬影片&lt;/h2&gt;
 &lt;p&gt;完成組立後轉進 V-rep，分解零組件，加入旋轉軸，並設定各軸及連桿參數。&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/czzDxH8g5cw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="作業"></category></entry><entry><title>40423144四連桿機構協同 Trace Point 查驗</title><link href="./40423144si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40423144</name></author><id>tag:,2017-03-19:./40423144si-lian-gan-ji-gou-xie-tong-trace-point-cha-yan.html</id><summary type="html">&lt;p&gt;1.Fossil Server 實習查驗&lt;/p&gt;
-&lt;p&gt;2.四連桿機構協同 Trace Point 查驗&lt;/p&gt;
-&lt;p&gt;3.Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/p&gt;
-&lt;p&gt;4.分組協同零件展示&lt;/p&gt;
-
-
-&lt;h2&gt;(一) Fossil Server 實習查驗&lt;/h2&gt;
-&lt;p&gt;&lt;a href="https://mde2a2.kmol.info/midterm/ag1/index"&gt;ag1期中考報告 fossil &lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;(二) Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/h2&gt;
-&lt;p&gt;Trace Point 查驗圖片&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/hDCVf8X"&gt;&lt;img src="http://i.imgur.com/hDCVf8X.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;利用Excel 查驗四連桿Trace Point 圖片&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://imgur.com/hF8LJy6"&gt;&lt;img src="http://i.imgur.com/hF8LJy6.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="期中考"></category></entry><entry><title>協同產品設計實習 第四週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40423144</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/czzDxH8g5cw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="作業"></category></entry><entry><title>協同產品設計實習 第四週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html" rel="alternate"></link><published>2017-03-19T12:08:00+08:00</published><updated>2017-03-19T12:08:00+08:00</updated><author><name>40423144</name></author><id>tag:,2017-03-19:./xie-tong-chan-pin-she-ji-shi-xi-di-si-zhou-zuo-ye.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;#第四週作業
 &lt;P&gt; 1. 利用網誌與簡報說明安裝或使用 Hyperworks 套件過程與心得 - 課程結束前, 希望能夠使用 Hyperworks 進行連桿機構零件的應力分析與機構運動模擬.&lt;/P&gt;
