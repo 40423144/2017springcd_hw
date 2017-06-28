@@ -966,7 +966,10 @@ def draw():
     cgo.render(gear2, {'x':cx+pr*2*0.5*2-pr/2, 'y':cy, 'scl':0.5, 'degs':0})
 
 set_interval(draw, 2)
-&lt;/script&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 w11作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w11zuo-ye.html" rel="alternate"></link><published>2017-05-08T12:00:00+08:00</published><updated>2017-05-08T12:00:00+08:00</updated><author><name>40423144</name></author><id>tag:,2017-05-08:./xie-tong-chan-pin-she-ji-shi-xi-w11zuo-ye.html</id><summary type="html">&lt;p&gt;1.協同2D正齒輪傳動繪圖(二)&lt;/p&gt;
+&lt;/script&gt;
+
+&lt;p&gt;5.如何模擬 3D 正齒輪組囓合？&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/QtNhP8oKPGw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="HW"></category></entry><entry><title>協同產品設計實習 w11作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-w11zuo-ye.html" rel="alternate"></link><published>2017-05-08T12:00:00+08:00</published><updated>2017-05-08T12:00:00+08:00</updated><author><name>40423144</name></author><id>tag:,2017-05-08:./xie-tong-chan-pin-she-ji-shi-xi-w11zuo-ye.html</id><summary type="html">&lt;p&gt;1.協同2D正齒輪傳動繪圖(二)&lt;/p&gt;
 
 
 &lt;p&gt;利用漸開線原理, 以 Brython 繪製單一正齒輪廓:&lt;/p&gt;
